@@ -1,0 +1,34 @@
+*{
+  background-color: lightseagreen;
+}
+button{
+  border-radius:10%;
+  height:7.5vh;
+  width:5vw;
+  margin-left:4vw;
+  background-color:lightpink;
+}
+input{
+  margin-left:3vw;
+  height:7vh;
+  width:18vw;
+  background-color:white;
+  margin-top:7vh;
+  border-radius:4px;
+}
+input,button:hover{
+  box-shadow: 2px 2px 2px 2px darkblue;
+}
+#serchbar{
+  margin-left:35vw;
+  height:7vh;
+  width:18vw;
+  background-color:white;
+  margin-top:1vh;
+  border-radius:4px;
+}
+h1{
+  color: white;
+  margin-left:25vw;
+  font-size:4vw;
+}
